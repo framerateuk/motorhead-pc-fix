@@ -1,0 +1,21 @@
+# Never commit anything from the game or third-party downloads
+Motorhead/
+*.bin
+*.img
+*.iso
+*.cue
+*.ccd
+*.sub
+*.exe
+*.EXE
+*.dll
+*.DLL
+*.zip
+*.ogg
+*.wav
+MotorHead.CFG
+HiScores/
+League/
+__pycache__/
+*.pak
+*.PAK
